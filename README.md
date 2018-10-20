@@ -1,2 +1,21 @@
 # student-manage-sys
-学生信息管理系统，Express+Vue+Mongoose+Axios+Element实现增删查改
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
